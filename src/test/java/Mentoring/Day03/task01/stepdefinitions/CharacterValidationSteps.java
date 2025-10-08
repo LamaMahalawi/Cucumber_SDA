@@ -12,7 +12,6 @@ public class CharacterValidationSteps {
     @Given("user is on {string}")
     public void user_is_on(String url) {
         Driver.getDriver().get(url);
-        Driver.getDriver().manage().window().maximize();
     }
 
     @When("user enters {string} in the validation field")
