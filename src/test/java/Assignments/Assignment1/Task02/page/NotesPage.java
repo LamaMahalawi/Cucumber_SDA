@@ -1,4 +1,4 @@
-package Assignments.Assignment1.Task01.page;
+package Assignments.Assignment1.Task02.page;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

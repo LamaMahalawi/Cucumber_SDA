@@ -1,6 +1,6 @@
-package Assignments.Assignment1.Task01.stepdefinitions;
+package Assignments.Assignment1.Task02.stepdefinitions;
 
-import Assignments.Assignment1.Task01.page.NotesPage;
+import Assignments.Assignment1.Task02.page.NotesPage;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
 import org.junit.Assert;
