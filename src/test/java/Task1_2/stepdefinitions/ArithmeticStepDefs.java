@@ -1,4 +1,4 @@
-package Assignments.Assignment01.stepdefinitions;
+package Task1_2.stepdefinitions;
 
 import io.cucumber.java.en.*;
 import org.junit.Assert;
